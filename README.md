@@ -1,2 +1,2 @@
-# e2e-test-project
-Automated end-to-end test
+# E2E Test
+Automated test project
